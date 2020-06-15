@@ -1,5 +1,10 @@
 # 『全員参加！メッセージ送信ゲーム』Unityアプリ
 
+```
+現在こちらのリポジトリは正常に動作しておりません。ご不便をおかけしていますが、順次改修対応を進めておりますので、今しばらくお待ちください。
+今後ともNIFCLOUD mobile backendをどうぞよろしくお願いいたします。
+```
+
 <img src="readme-images/app_image_0.PNG" alt="app_image_0" width="700px"><br><br>
 
 ## 概要
